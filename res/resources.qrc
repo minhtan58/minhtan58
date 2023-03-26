@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="top.qml">qml/top.qml</file>
+        <file alias="menu.qml">qml/menu.qml</file>
+        <file alias="analog.qml">qml/analog.qml</file>
+        <file alias="digital.qml">qml/digital.qml</file>
+        <file alias="logs.qml">qml/logs.qml</file>
+        <file alias="overview.qml">qml/overview.qml</file>
+        <file alias="sensor.qml">qml/sensor.qml</file>
+        <file alias="serial.qml">qml/serial.qml</file>
+        <file alias="system.qml">qml/system.qml</file>
+        <file alias="transmission.qml">qml/transmission.qml</file>
+        <file alias="bottom.qml">qml/bottom.qml</file>
+        <file alias="sorting.qml">qml/sorting.qml</file>
+        <file alias="cellular.qml">qml/cellular.qml</file>
+        <file alias="virtual.qml">qml/virtual.qml</file>
+    </qresource>
+    <qresource prefix="/qml/Components">
+        <file alias="CustomMenuItem.qml">qml/Components/CustomMenuItem.qml</file>
+        <file alias="ColorIcon.qml">qml/Components/ColorIcon.qml</file>
+        <file alias="Content.qml">qml/Components/Content.qml</file>
+        <file alias="MyText.qml">qml/Components/MyText.qml</file>
+        <file alias="MyLabel.qml">qml/Components/MyLabel.qml</file>
+        <file alias="MyTextEdit.qml">qml/Components/MyTextEdit.qml</file>
+        <file alias="MyTable.qml">qml/Components/MyTable.qml</file>
+        <file alias="BorderedText.qml">qml/Components/BorderedText.qml</file>
+        <file alias="Global.js">qml/Components/Global.js</file>
+        <file alias="MyComboBox.qml">qml/Components/MyComboBox.qml</file>
+        <file alias="MySensorTable.qml">qml/Components/MySensorTable.qml</file>
+        <file alias="MyLogTable.qml">qml/Components/MyLogTable.qml</file>
+        <file alias="MyVirtualSensorTable.qml">qml/Components/MyVirtualSensorTable.qml</file>
+    </qresource>
+    <qresource prefix="/svg">
+        <file alias="right.svg">svg/chevron_right_black_24dp.svg</file>
+        <file alias="down.svg">svg/expand_more_black_24dp.svg</file>
+        <file alias="sync.svg">svg/sync_black_24dp.svg</file>
+        <file alias="up-arrow.svg">svg/up-arrow.svg</file>
+        <file alias="down-arrow.svg">svg/down-arrow.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="logo">DicomHME.jpg</file>
+    </qresource>
+</RCC>

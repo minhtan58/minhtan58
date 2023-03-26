@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/qml"/>
+    <qresource prefix="/qml/Components"/>
+    <qresource prefix="/svg">
+        <file alias="right.svg">res/svg/chevron_right_black_24dp.svg</file>
+        <file alias="down.svg">res/svg/expand_more_black_24dp.svg</file>
+        <file alias="sync.svg">res/svg/sync_black_24dp.svg</file>
+        <file alias="up-arrow.svg">res/svg/up-arrow.svg</file>
+        <file alias="down-arrow.svg">res/svg/down-arrow.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="logo">res/DicomHME.jpg</file>
+    </qresource>
+</RCC>
